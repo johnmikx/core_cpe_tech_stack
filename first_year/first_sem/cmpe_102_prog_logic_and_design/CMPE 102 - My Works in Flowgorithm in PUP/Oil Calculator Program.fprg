@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="Hello, World Program"/>
+        <attribute name="authors" value="John Mike"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-10-15 07:41:37 pm"/>
+        <attribute name="created" value="Sm9obiBNaWtlO0pPSE5NSUtYOzIwMjQtMTAtMTU7MDc6MjA6NDIgcG07Mjc3NQ=="/>
+        <attribute name="edited" value="Sm9obiBNaWtlO0pPSE5NSUtYOzIwMjQtMTAtMTU7MDc6NDE6MzcgcG07MjsyODkx"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="Program: Oil Calculator Program&#13;&#10;Author: John Mike P. Asuncion&#13;&#10;Date: October 15, 2024"/>
+            <declare name="order" type="Integer" array="False" size=""/>
+            <declare name="cost" type="Real" array="False" size=""/>
+            <output expression="&quot;The amount of oil is ?&quot;" newline="True"/>
+            <input variable="order"/>
+            <assign variable="cost" expression="order * 3.99"/>
+            <output expression="&quot;The cost of &quot; &amp; order &amp; &quot; gallons of oil is &quot; &amp; cost &amp; &quot;.&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

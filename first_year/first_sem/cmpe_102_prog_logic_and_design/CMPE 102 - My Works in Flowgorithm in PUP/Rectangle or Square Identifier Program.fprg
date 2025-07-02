@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="Rectangle or Square Identifier"/>
+        <attribute name="authors" value="John Mike"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-10-15 09:25:41 pm"/>
+        <attribute name="created" value="Sm9obiBNaWtlO0pPSE5NSUtYOzIwMjQtMTAtMTU7MDg6MTE6MTggcG07Mjc3OQ=="/>
+        <attribute name="edited" value="Sm9obiBNaWtlO0pPSE5NSUtYOzIwMjQtMTAtMTU7MDk6MjU6NDEgcG07MTsyODg5"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="Program: Rectangle or Square Identifier&#13;&#10;Author: John Mike P. Asuncion&#13;&#10;Date: October 15, 2024"/>
+            <declare name="width" type="Integer" array="False" size=""/>
+            <output expression="&quot;What is the width of a given quadrilateral?&quot;" newline="True"/>
+            <input variable="width"/>
+            <declare name="length" type="Integer" array="False" size=""/>
+            <output expression="&quot;What is the length of a given quadrilateral?&quot;" newline="True"/>
+            <input variable="length"/>
+            <if expression="width = length">
+                <then>
+                    <output expression="&quot;The given quadrilateral is square.&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;The given quadrilateral is rectangle.&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

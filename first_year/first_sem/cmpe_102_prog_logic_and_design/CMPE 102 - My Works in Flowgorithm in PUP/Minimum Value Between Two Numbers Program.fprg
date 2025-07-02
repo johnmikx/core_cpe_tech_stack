@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="Minimum Value Between Two Numbers Program"/>
+        <attribute name="authors" value="John Mike"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-10-15 08:08:48 pm"/>
+        <attribute name="created" value="Sm9obiBNaWtlO0pPSE5NSUtYOzIwMjQtMTAtMTU7MDc6NTc6MzUgcG07Mjc4Nw=="/>
+        <attribute name="edited" value="Sm9obiBNaWtlO0pPSE5NSUtYOzIwMjQtMTAtMTU7MDg6MDg6NDggcG07MTsyODk2"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="Program: Minimum Value Between Two Numbers Program&#13;&#10;Author: John Mike P. Asuncion&#13;&#10;Date: October 15, 2024"/>
+            <declare name="num1" type="Integer" array="False" size=""/>
+            <declare name="num2" type="Integer" array="False" size=""/>
+            <output expression="&quot;Give me two numbers to identify which has the minimum value.&quot;" newline="True"/>
+            <input variable="num1"/>
+            <input variable="num2"/>
+            <if expression="num1 &lt; num2">
+                <then>
+                    <output expression="num1 &amp; &quot; is the minimum value.&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="num2 &amp; &quot; is the minimum value.&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

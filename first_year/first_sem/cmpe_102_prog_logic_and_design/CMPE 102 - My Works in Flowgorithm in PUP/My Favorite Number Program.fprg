@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="My Favorite Number Program"/>
+        <attribute name="authors" value="John Mike"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-10-15 07:20:28 pm"/>
+        <attribute name="created" value="Sm9obiBNaWtlO0pPSE5NSUtYOzIwMjQtMTAtMTU7MDc6MDk6MTUgcG07Mjc4Mg=="/>
+        <attribute name="edited" value="Sm9obiBNaWtlO0pPSE5NSUtYOzIwMjQtMTAtMTU7MDc6MjA6MjggcG07MTsyODg3"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="Program: My Favorite Number Program&#13;&#10;Author: John Mike P. Asuncion&#13;&#10;Date: October 15, 2024"/>
+            <declare name="favNumber" type="Integer" array="False" size=""/>
+            <output expression="&quot;What is your favorite number?&quot;" newline="True"/>
+            <input variable="favNumber"/>
+            <output expression="&quot;Wow! &quot; &amp; favNumber &amp; &quot; is a great number.&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

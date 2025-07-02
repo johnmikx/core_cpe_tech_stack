@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="Hello, World Program"/>
+        <attribute name="authors" value="John Mike"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-10-15 07:23:44 pm"/>
+        <attribute name="created" value="Sm9obiBNaWtlO0pPSE5NSUtYOzIwMjQtMTAtMTU7MDc6MjA6NDIgcG07Mjc3NQ=="/>
+        <attribute name="edited" value="Sm9obiBNaWtlO0pPSE5NSUtYOzIwMjQtMTAtMTU7MDc6MjM6NDQgcG07MTsyODg4"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="Program: &quot;Hello, World!&quot; Program&#13;&#10;Author: John Mike P. Asuncion&#13;&#10;Date: October 15, 2024"/>
+            <output expression="&quot;Hello, World!&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
