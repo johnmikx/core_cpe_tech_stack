@@ -14,6 +14,7 @@ core_cpe_tech_stack/
 │   ├── first_sem/
 │   │   ├── cmpe_101_comp_eng_discipline/
 │   │   ├── cmpe_102_prog_logic_and_design/
+│   │   ├── geed_004_mmw/
 │   │   └── math_101_calculus_1/
 │   └── second_sem/
 │       ├── cmpe_103_oop/
