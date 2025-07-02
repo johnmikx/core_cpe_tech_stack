@@ -23,6 +23,22 @@ core_cpe_tech_stack/
 │       ├── phys_013_physics_for_engrs/
 │       └── stat_012_eng_data_analysis/
 │
+├── fourth_year/
+│   ├── first_sem/
+│   │   ├── cmpe_401_dbms/
+│   │   ├── cmpe_402_comp_proj_mgmt/
+│   │   ├── cmpe_403_comp_architecture_and_org/
+│   │   ├── cmpe_404_cpe_prac_and_design_1/
+│   │   ├── cmpe_405_dsp/
+│   │   └── elec_cpe_e3_ml_ai/
+│   └── second_sem/
+│       ├── cmpe_406_software_design/
+│       ├── cmpe_407_cpe_prac_and_design_2/
+│       ├── cmpe_408_field_trip_and_seminars/
+│       ├── cmpe_409_embedded_sys/
+│       ├── cmpe_410_emerging_techs_in_cpe/
+│       └── elec_cpe_e4_ml_ai/
+│
 ├── second_year/
 │   ├── first_sem/
 │   │   ├── cmpe_201_dsa/
@@ -53,22 +69,6 @@ core_cpe_tech_stack/
 │       ├── cmpe_312_methods_of_research/
 │       ├── elec_cpe_e2_ml_ai/
 │       └── ensc_411_technopreneurship/
-│
-├── fourth_year/
-│   ├── first_sem/
-│   │   ├── cmpe_401_dbms/
-│   │   ├── cmpe_402_comp_proj_mgmt/
-│   │   ├── cmpe_403_comp_architecture_and_org/
-│   │   ├── cmpe_404_cpe_prac_and_design_1/
-│   │   ├── cmpe_405_dsp/
-│   │   └── elec_cpe_e3_ml_ai/
-│   └── second_sem/
-│       ├── cmpe_406_software_design/
-│       ├── cmpe_407_cpe_prac_and_design_2/
-│       ├── cmpe_408_field_trip_and_seminars/
-│       ├── cmpe_409_embedded_sys/
-│       ├── cmpe_410_emerging_techs_in_cpe/
-│       └── elec_cpe_e4_ml_ai/
 │
 └── README.md
 ```
