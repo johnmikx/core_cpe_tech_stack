@@ -1,3 +1,6 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient"/>
+
+
 ## Directory Structure
 
 ```
@@ -64,3 +67,5 @@ core_cpe_tech_stack/
 │
 └── README.md
 ```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer"/>
