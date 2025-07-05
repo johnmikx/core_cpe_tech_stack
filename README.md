@@ -63,6 +63,7 @@ core_cpe_tech_stack/
 │   │   ├── engl_013_tech_writing/
 │   │   └── ensc_301_econ/
 │   └── second_sem/
+│       ├── cmpe_307_bohs/
 │       ├── cmpe_308_laws_and_professional_prac/
 │       ├── cmpe_309_feedback_and_control_sys/
 │       ├── cmpe_310_comp_networks_security/
