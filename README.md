@@ -83,10 +83,14 @@ core_cpe_tech_stack/
 
 ## Credits and Acknowledgements
 
-Some of the PDF materials, textbooks, and slides included in this repository are owned by their respective authors, universities, or publishers. I do not claim ownership over these resources.
+**Some of the PDF materials, textbooks, and slides included in this repository are owned by their respective authors, universities, or publishers. I do not claim ownership over these resources.**
 
 All educational content provided here is used solely for academic, non-commercial, and fair use purposes. If you are the rightful owner of any material and would like it to be credited properly or removed, please contact me through this repository’s issue tracker.
 
 Thank you to the educators, institutions, and creators whose work continues to support students like me.
+
+<div align="center">
+    <p><i>Last (README) updated: July 13, 2025</i></p>
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer"/>
