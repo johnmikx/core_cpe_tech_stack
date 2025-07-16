@@ -6,7 +6,7 @@
 
 A curated, course-aligned tech stack from my ***Bachelor of Science in Computer Engineering*** degree — focused only on the subjects essential for real-world applications and industry-relevant technical skills.
 
-## Directory Structure
+## **Directory Structure**
 
 ```
 core_cpe_tech_stack/
@@ -75,13 +75,13 @@ core_cpe_tech_stack/
 └── README.md
 ```
 
-## About the Author
+## **About the Author**
 
 🥷 **John Mike Asuncion (Mike)**
 
 - Driven **1st-year Computer Engineering student** with a keen interest in Data Science, Engineering, Machine Learning, and Artificial Intelligence.
 
-## Credits and Acknowledgements
+## **Credits and Acknowledgements**
 
 **Some of the PDF materials, textbooks, and slides included in this repository are owned by their respective authors, universities, or publishers. I do not claim ownership over these resources.**
 
