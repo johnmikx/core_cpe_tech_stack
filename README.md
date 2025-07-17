@@ -90,7 +90,7 @@ All educational content provided here is used solely for academic, non-commercia
 Thank you to the educators, institutions, and creators whose work continues to support students like me.
 
 <div align="center">
-    <p><i>Last (README) updated: July 13, 2025</i></p>
+    <p><i>Last (README) updated: July 16, 2025</i></p>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer"/>
