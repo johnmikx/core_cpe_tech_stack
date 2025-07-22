@@ -79,7 +79,7 @@ core_cpe_tech_stack/
 
 🥷 **John Mike Asuncion (Mike)**
 
-- Driven **1st-year Computer Engineering student** with a keen interest in Data Science, Engineering, Machine Learning, and Artificial Intelligence.
+- Driven **2nd-year Computer Engineering student** with a keen interest in Data Science, Engineering, Machine Learning, and Artificial Intelligence.
 
 ## **Credits and Acknowledgements**
 
